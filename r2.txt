@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 at rr
+=======
+
+at fr][H\\
+>>>>>>> dbb16f0 (commit)
